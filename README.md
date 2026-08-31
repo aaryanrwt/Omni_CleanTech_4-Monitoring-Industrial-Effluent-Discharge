@@ -1,6 +1,6 @@
 # Omni_CleanTech_4-Monitoring-Industrial-Effluent-Discharge
 # AquaSentinel 🌊
-WEBSITE LINK:- aquasentinel-site.vercel.app
+WEBSITE LINK:- https://aquasentinel-site.vercel.app/
 
 ### Real-Time Industrial Effluent Monitoring & Early-Warning Platform
 
